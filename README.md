@@ -1,0 +1,2 @@
+# 1024160027_UCS420_Assignments
+Cognitive Computing assignments
