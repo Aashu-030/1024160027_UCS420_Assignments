@@ -22,7 +22,7 @@ print(df.iloc[4:9, 2:5])
 print(df.iloc[:, 1:4])
 
 #Q4: Read a csv file and display the first 5 rows 
-df = pd.read_csv('Assignment_3\Iris.csv')
+df = pd.read_csv('Assignment_3/Iris.csv')
 print(df.head())
 
 #Q5: Delete row 4 and column 3 and display result 
